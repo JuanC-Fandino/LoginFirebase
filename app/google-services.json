@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660371660822",
+    "project_id": "basesdedatos-97a49",
+    "storage_bucket": "basesdedatos-97a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660371660822:android:bd0010feb421f8099e5537",
+        "android_client_info": {
+          "package_name": "com.jkapps.juancamilo.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660371660822-7kb491m7l41j2u59inbbp6hm8ildnuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKDuHL6m9UZEqvknPDCSooQo7auHZy9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660371660822-7kb491m7l41j2u59inbbp6hm8ildnuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
