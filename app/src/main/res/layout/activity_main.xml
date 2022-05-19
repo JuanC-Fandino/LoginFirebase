@@ -27,7 +27,7 @@
             android:autofillHints="username"
             android:ems="10"
             android:hint="User"
-            android:inputType="textPersonName"
+            android:inputType="textEmailAddress"
             android:minHeight="48dp" />
 
         <EditText
